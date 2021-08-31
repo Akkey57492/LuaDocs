@@ -38,7 +38,7 @@ globals.get_int(Integer index)
 返り型
 ```
 integer
-``
+```
 ## globals.get_uint
 例
 ```
