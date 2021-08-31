@@ -47,7 +47,7 @@ globals.get_uint(Integer index)
 返り型
 ```
 integer
-``
+```
 ## set_boolean
 例
 ```
